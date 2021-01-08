@@ -3,7 +3,7 @@ import 'package:weather/services/location.dart';
 import 'package:weather/services/networking.dart';
 
 //Constant Variables
-const apiKey = 'ce86c9affeacb730184385a02caeb76a';
+const apiKey = 'your api secret key goes here';
 const openWeatherMapUrl = 'https://api.openweathermap.org/data/2.5/weather';
 //Units Metric Types
 String celsius = '&units=metric';
